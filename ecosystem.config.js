@@ -2,7 +2,7 @@ module.exports = {
   apps: [
     {
       name: 'boilerplate',
-      script: 'server.js',
+      script: 'server.ts',
       instances: 1,
       autorestart: true,
       watch: false,
